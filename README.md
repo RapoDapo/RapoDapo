@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Piece Era
+
+- 🌱 I’m currently learning Discord.JS
+
+- 👯 I’m looking to collaborate on litereally anything
+
+- 📫 How to reach me: rapolasa29@aisv.lt or Discord: Rapo#1959
 <!--
 **RapoDapo/RapoDapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
